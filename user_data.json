@@ -1,0 +1,30 @@
+{
+    "Riya": {
+        "profile": {
+            "name": "Riya",
+            "age": 20,
+            "gender": "female"
+        },
+        "preferences": {
+            "genre": "horror",
+            "rating": 3.0
+        },
+        "watched_movies": [
+            "A Quiet Place"
+        ]
+    },
+    "John": {
+        "profile": {
+            "name": "John",
+            "age": 30,
+            "gender": "male"
+        },
+        "preferences": {
+            "genre": "sci-fi",
+            "rating": 3.0
+        },
+        "watched_movies": [
+            "Interstellar"
+        ]
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "1": {
+        "title": "Barbie",
+        "genre": "Comedy",
+        "rating": 4.2,
+        "age_restriction": 12
+    },
+    "2": {
+        "title": "The Wolf of Wall Street",
+        "genre": "Comedy",
+        "rating": 3.8,
+        "age_restriction": 12
+    },
+    "3": {
+        "title": "Dumb Money",
+        "genre": "Comedy",
+        "rating": 4.0,
+        "age_restriction": 12
+    },
+    "4": {
+        "title": "My Big Fat Greek Wedding 3",
+        "genre": "Comedy",
+        "rating": 4.5,
+        "age_restriction": 12
+    },
+    "5": {
+        "title": "Guardians of the Galaxy Vol. 3",
+        "genre": "Comedy",
+        "rating": 3.9,
+        "age_restriction": 12
+    },
+    "6": {
+        "title": "The Conjuring",
+        "genre": "Horror",
+        "rating": 3.7,
+        "age_restriction": 16
+    },
+    "7": {
+        "title": "Get Out",
+        "genre": "Horror",
+        "rating": 4.1,
+        "age_restriction": 16
+    },
+    "8": {
+        "title": "Hereditary",
+        "genre": "Horror",
+        "rating": 4.3,
+        "age_restriction": 16
+    },
+    "9": {
+        "title": "A Quiet Place",
+        "genre": "Horror",
+        "rating": 3.5,
+        "age_restriction": 16
+    },
+    "10": {
+        "title": "The Babadook",
+        "genre": "Horror",
+        "rating": 4.0,
+        "age_restriction": 16
+    },
+    "11": {
+        "title": "The Notebook",
+        "genre": "Romantic",
+        "rating": 4.2,
+        "age_restriction": 12
+    },
+    "12": {
+        "title": "Pride and Prejudice",
+        "genre": "Romantic",
+        "rating": 4.4,
+        "age_restriction": 12
+    },
+    "13": {
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "genre": "Romantic",
+        "rating": 4.1,
+        "age_restriction": 12
+    },
+    "14": {
+        "title": "La La Land",
+        "genre": "Romantic",
+        "rating": 3.9,
+        "age_restriction": 12
+    },
+    "15": {
+        "title": "Before Sunrise",
+        "genre": "Romantic",
+        "rating": 4.3,
+        "age_restriction": 12
+    },
+    "16": {
+        "title": "Gone with the Wind",
+        "genre": "Historic",
+        "rating": 4.0,
+        "age_restriction": 12
+    },
+    "17": {
+        "title": "Lawrence of Arabia",
+        "genre": "Historic",
+        "rating": 4.2,
+        "age_restriction": 12
+    },
+    "18": {
+        "title": "Schindler's List",
+        "genre": "Historic",
+        "rating": 3.8,
+        "age_restriction": 12
+    },
+    "19": {
+        "title": "Braveheart",
+        "genre": "Historic",
+        "rating": 3.9,
+        "age_restriction": 12
+    },
+    "20": {
+        "title": "The King's Speech",
+        "genre": "Historic",
+        "rating": 4.1,
+        "age_restriction": 12
+    },
+    "21": {
+        "title": "Blade Runner 2049",
+        "genre": "Sci-Fi",
+        "rating": 4.4,
+        "age_restriction": 12
+    },
+    "22": {
+        "title": "Interstellar",
+        "genre": "Sci-Fi",
+        "rating": 4.3,
+        "age_restriction": 12
+    },
+    "23": {
+        "title": "Inception",
+        "genre": "Sci-Fi",
+        "rating": 4.1,
+        "age_restriction": 12
+    },
+    "24": {
+        "title": "The Martian",
+        "genre": "Sci-Fi",
+        "rating": 4.5,
+        "age_restriction": 12
+    },
+    "25": {
+        "title": "Arrival",
+        "genre": "Sci-Fi",
+        "rating": 4.2,
+        "age_restriction": 12
+    }
+}
